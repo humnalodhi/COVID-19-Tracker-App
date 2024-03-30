@@ -1,4 +1,4 @@
-# flutter_bootcamp_2023_w5
+# covid-19_tracker_app
 
 A new Flutter project.
 
